@@ -15,6 +15,9 @@ O repositório está organizado de acordo com as listas de exercícios:
 ├── lista_4
 ├── lista_5
 ├── lista_6
+├── lista_7
+├── lista_8
+├── lista_9
 └── README.md
 
 
